@@ -8,6 +8,8 @@ Some key takeaways:
 
 # COVID-19/ SARS-CoV-2 Information
 
+Honestly, check out this [Twitter thread. It's pretty much everything you should know.](https://twitter.com/immunofever/status/1237212139997106181)
+
 A lot of the latest information these days is actually off of Twitter, as many top researchers are using it to quickly share information with large groups of people.
 
 Here's a list of good people to follow. They are all either journalists or researchers:
