@@ -18,7 +18,7 @@ Here's a list of good people to follow. They are all either journalists or resea
 
 [Trevor Bedford](https://twitter.com/trvrb)
 
-[Ellie Murray](httpL//twitter.com/EpiEllie)
+[Ellie Murray](https://twitter.com/EpiEllie)
 
 [Mark Lipsitch](https://twitter.com/mlipsitch)
 
@@ -82,13 +82,14 @@ But, it does seem that when people are sick, they seem to be sick for a long per
 
 As time goes on, we'll learn more about the virus and its patterns as we just deal with it. South Korea, China, and Singapore are offering pretty good information.
 
-Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf) :
+In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out, we don't really know if younger patients are truly unaffected, or if their symptoms were just mild enough. Testing data out of South Korea should firm up some of this knowledge soon.
 
-In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out,
+Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality. In the < 40 category, the mortality rate was 0.2%. 
 
-Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
+Because of these mortality rates, in order to protect the most vulnerable, we should all try to not spread the disease, even if it doesn't affect us badly. 
 
 ## Can asymptomatic people transmit the disease?
+
 To the best of our knowledge, the answer is yes, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
 
 Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She *was* symptomatic, with a light fever.
