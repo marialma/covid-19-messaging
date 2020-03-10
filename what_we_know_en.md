@@ -40,7 +40,7 @@ Before it was formally named, people were generally using the terms novel corona
 
 Eeeugh. This is tough.
 
-The R0 is a value that represents the average number of new infections that will stem from a single infection. An R0 of 1 means that for every new infection, one other person will be infected. **This number is NOT and immutable characteristic of a disease, but rather an estimate that changes based on the social dynamics of the outbreak as well.** Implementing control measures changes the R0. This might seem pedantic, but citing an R0 tends to be a little misleading without understanding this context.
+The R0 is a value that represents the average number of new infections that will stem from a single infection. An R0 of 1 means that for every new infection, one other person will be infected. **This number is NOT an immutable characteristic of a disease, but rather an estimate that changes based on the social dynamics of the outbreak as well.** Implementing control measures changes the R0. This might seem pedantic, but citing an R0 tends to be a little misleading without understanding this context.
 
 Mathematically, R0 is a function of an infected person's infectious contact rate (β) * the average infectious period (γ).  The infectious contact rate is the number of contacts you have made * your likelihood of having infected them. Each part of this is affected by different things - your likelihood of having infected a contact would be a biological property, but the number of contacts you have would be a property of the social dynamics.
 
@@ -152,6 +152,7 @@ As of: 2020-03-09:
 
 
 # Frequently asked questions
+*I want to note here that this is how I have been answering the questions that people have asked me specifically. You should pay attention to what your local health department says. Check their website!*
 
 ## Should I work from home?
 Probably, if you can. Try to reduce the burden on those who can't. 
@@ -159,7 +160,7 @@ Probably, if you can. Try to reduce the burden on those who can't.
 ## Should I travel?
 Wouldn't exactly recommend it, especially if you have older family that you're in contact with a lot. But, if you insist on it, absolutely do not go while sick and promptly quarantine yourself if you develop symptoms. 
 
-Also recognize, depending on where you're going, a ton of shit's probably closed anyway, and there is a non-zero chance of getting officially quarantined on your way back. 
+Also recognize, depending on where you're going, a ton of shit's probably closed anyway, and there is a non-zero chance of getting officially quarantined on your way back. Do you really want to go?
 
 ## Should I stock up on masks? What measures can I take?
 
@@ -182,9 +183,9 @@ So, really, one of the best things you can do for yourself is to just go to bed 
 
 # Other resources (SF -centric)
 
-PLEASE PLEASE PLEASE check your local ordinances for recommendations. 
+**PLEASE PLEASE PLEASE** check your local ordinances for recommendations. 
 
-* [JHU COVID Map](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - This is map everyone likes.
+* [JHU COVID Map](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - This is the map everyone likes.
 * [SF Chronicle California Map](https://projects.sfchronicle.com/2020/coronavirus-map/)
 * [WHO COVID resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
