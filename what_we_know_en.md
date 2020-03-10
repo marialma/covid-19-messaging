@@ -1,7 +1,7 @@
 Hi. I'm Maria Ma. I have an MPH in Infectious Diseases from UC Berkeley. My undergrad degree is in Microbiology, and I spent several years working as a biotech professional before transitioning to public health. I tell you my qualifications to let you decide whether or not you can trust the information I sifted through.
 
 Some key takeaways:
-*  Using even the most generous estimates of asymptomatic individuals, most people have symptoms. If you're not surrounded by people coughing, **you're probably not surrounded by people with the virus.**
+*  Using even the most generous estimates of asymptomatic individuals, most infected people have symptoms. If you're not surrounded by people coughing, **you're probably not surrounded by people with the virus.**
 * **We are still learning about this.** It's a brand new virus. We're learning about this faster than we ever have before. Truly bold new technologies are being applied by the scientists trying to figure this stuff out. You might feel like we don't have enough information, but actually having this much information at this stage of an outbreak of a new virus is completely unprecedented. 
 * **It's going to take some time.** Vaccine development will take a while. Finding and testing cases will take a while. Recovery even takes a while. 
 * **Responders are human too.** They will get tired. Try not to harass them too much or spread too many wild theories that make their job harder. 
