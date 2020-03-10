@@ -11,11 +11,17 @@ Some key takeaways:
 A lot of the latest information these days is actually off of Twitter, as many top researchers are using it to quickly share information with large groups of people.
 
 Here's a list of good people to follow. They are all either journalists or researchers:
+
 [Maia Majumder](https://twitter.com/maiamajumder)
+
 [Julia Belluz](https://twitter.com/juliaoftoronto)
+
 [Trevor Bedford](https://twitter.com/trvrb)
+
 [Ellie Murray](httpL//twitter.com/EpiEllie)
+
 [Mark Lipsitch](https://twitter.com/mlipsitch)
+
 [Kai Kupferschmidt](https://twitter.com/kakape)
 
 [EpiEllie's Coronavirus Experts List](https://twitter.com/i/lists/1220869298631200769)
@@ -38,7 +44,7 @@ The R0 is a value that represents the average number of new infections that will
 
 Mathematically, R0 is a function of an infected person's infectious contact rate (β) * the average infectious period (γ).  The infectious contact rate is the number of contacts you have made * your likelihood of having infected them. Each part of this is affected by different things - your likelihood of having infected a contact would be a biological property, but the number of contacts you have would be a property of the social dynamics.
 
-*The goal of every outbreak epidemiologist is to reduce the R0 to below one, so the outbreak will die out.*
+*The goal of every outbreak epidemiologist is to reduce the R0 to below one, so that the outbreak will die out.*
 
 
 ## What are the symptoms?
@@ -132,6 +138,8 @@ San Francisco declared a state of emergency. This sounds scary, but is mostly a 
 ## How many beds do hospitals in San Francisco have?
 The City of San Francisco has three hospitals, with 1,400 beds between them. I do not know how many isolation rooms there are. 
 
+## How many cases have been in the Bay Area? 
+
 
 # Frequently asked questions
 
@@ -145,11 +153,13 @@ Also recognize, depending on where you're going, a ton of shit's probably closed
 
 ## Should I stock up on masks? What measures can I take?
 
+The typical refrain: wash your hands, don't touch your face, avoid large crowds, make sure you have your emergency kit. Wear a mask only if you're sick
+
 Masks will provide some marginal level of protection, but most people also use masks incorrectly which might lead to them actually putting themselves at greater risk. The value a mask provides is kind of dependent on how many sick people are actually around you. 
 
-Additionally, there will definitely be a mask shortage for our healthcare workers, who are in constant contact with infectious particles. You should not hoard masks when health workers need them the most. It is in your best, selfish interest for those people to not get sick. If too many health workers get sick, it'll cripple a hospital, resulting in worse outcomes for sick people, and even less ability to control the outbreak.
+Additionally, there will definitely be a mask shortage for our healthcare workers, who are in constant contact with infectious particles. You should not hoard masks when health workers need them the most. It is in your best, selfish interest for those people to not get sick. If too many health workers get sick, it'll cripple a hospital, resulting in worse outcomes for sick people, and even less ability to control the outbreak. But, you should still wear a mask if you're sick, to prevent infecting anyone else. 
 
-Many respiratory infections are actually from people with dirty hands touching their faces and inoculating themselves with pathogen. So, wash your hands.
+Many respiratory infections are actually from people with dirty hands touching their faces and inoculating themselves with pathogen. So, wash your hands and don't touch your face.
 
 Generally speaking, make sure you've got at least 2 weeks of food. You should have this anyway if you're in SF. It's earthquake country after all, and you should make sure you have an emergency kit. 
 
@@ -159,6 +169,17 @@ One of the other guides going around tells you to do aerobic exercise to "streng
 BUT exercise can help strengthen your immune system. So does eating healthy foods, *especially* getting enough sleep, not drinking excessively, and not stressing out. [Hahhvahd](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 
 So, really, one of the best things you can do for yourself is to just go to bed and not try to obsessively follow the latest scraps of news. 
+
+# Other resources (SF -centric)
+
+* [JHU COVID Map](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - This is map everyone likes.
+* [WHO COVID resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+* [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
+* [San Francisco Department of Public Health](https://www.sfdph.org/dph/alerts/coronavirus.asp)
+* [Singapore MOH](https://www.moh.gov.sg/covid-19)
+* [STAT News](https://www.statnews.com/) - Probably the best medical/health reporting out there.
+
 
 
 # Concluding remarks
