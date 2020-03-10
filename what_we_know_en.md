@@ -139,6 +139,13 @@ San Francisco declared a state of emergency. This sounds scary, but is mostly a 
 The City of San Francisco has three hospitals, with 1,400 beds between them. I do not know how many isolation rooms there are. 
 
 ## How many cases have been in the Bay Area? 
+As of: 2020-03-09: 
+- 13 in San Francisco
+- 43 in Santa Clara County
+- 9 in San Mateo County
+- 3 in Alameda County
+- 12 in Contra Costa County
+- 2 in Marin County
 
 
 # Frequently asked questions
@@ -173,6 +180,7 @@ So, really, one of the best things you can do for yourself is to just go to bed 
 # Other resources (SF -centric)
 
 * [JHU COVID Map](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - This is map everyone likes.
+* [SF Chronicle California Map](https://projects.sfchronicle.com/2020/coronavirus-map/)
 * [WHO COVID resources](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
