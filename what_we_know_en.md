@@ -89,11 +89,13 @@ In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% 
 Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
 
 ## Can asymptomatic people transmit the disease?
-To the best of our knowledge, the answer is yes, **however**, it requires close contact.
+To the best of our knowledge, the answer is yes, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
 
-Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She was, in fact, symptomatic.
+Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She *was* symptomatic, with a light fever.
 
-However, there was at least one case in China of [an asymptomatic patient transmitting disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930154-9/fulltext) to their family.
+However, there was at least one case in China of [an asymptomatic patient transmitting disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930154-9/fulltext) to their family. The asymptomatic patient later went on develop the disease as well. 
+
+Basically, getting on public transit with an asymptomatically infected patient most probably isn't going to give you the disease unless you make out with them or lick their face or something. 
 
 ## Can recovered people transmit the disease?
 
