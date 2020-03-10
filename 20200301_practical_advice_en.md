@@ -5,11 +5,11 @@ We are experts working in infectious disease and public health, and we wanted to
 Please feel free to pass along to others, keeping in mind that the situation is changing as we learn more about the disease.
 
 
-#Practical Advice for Keeping Yourself and Your Family Safe:
-##Taking care of your family
+# Practical Advice for Keeping Yourself and Your Family Safe:
+## Taking care of your family
 
 We understand COVID-19 causes relatively mild illness unless you are older or already have other diseases. This is the time to think about what you might need to do to protect those members of your family, friends, and community, such as:
-taking time off to care for them
+* taking time off to care for them
 * bringing them groceries and helping them refill their medications
 * washing your hands immediately after getting inside
 * helping them stay in contact with friends and family by helping them set up video chat or other electronic communication
