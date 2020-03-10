@@ -1,4 +1,7 @@
-Hi All,
+*The history of this document is that it started off as something A Crawley had written. This was then taken by some more of us to craft a document that would be translated and distributed among the Asian American community. It is up here because I thought it would be more broadly useful. I am not the true author of this document.*
+
+
+# Hi All,
 
 We are experts working in infectious disease and public health, and we wanted to share some information about COVID-19 (the disease caused by the new coronavirus). We know a lot of information is going around, and we want to summarize the key information as of now (2020/03/01)
 
