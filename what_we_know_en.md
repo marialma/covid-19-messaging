@@ -51,7 +51,7 @@ Mathematically, R0 is a function of an infected person's infectious contact rate
 
 ## What are the symptoms?
 
-Symptoms have generally been described as nonspecific, involving fever, cough, and shortness of breath ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)).
+Symptoms have generally been described as nonspecific, involving fever, cough, and shortness of breath ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)).  The real distinguisher from your garden-variety cold or flu is the shortness of breath.  If you feel like you are having trouble breathing (other than just because your nose is blocked up or because you ran up six flights of stairs), that's worth paying attention to.
 
 ## What is the incubation period?
 
@@ -60,9 +60,9 @@ The incubation period is a bit tough to pin down exactly, but [appears to be, on
 In general, people have been using 14 days/ 2 weeks as the benchmark.
 
 ## How long does it survive on surfaces?
-Results from a preprint on medrxiv were leaked earlier. This space will be updated when that preprint goes live. But generally, it doesn't seem to be hugely different from what you'd expect from a coronavirus.
+Results from a preprint on medrxiv were leaked earlier. This space will be updated when that preprint goes live. But generally, it doesn't seem to be hugely different from what you'd expect from a coronavirus.  Depending on the type of material and conditions, it can remain infectious for anything from 2 hours to up to 9 days.
 
-## What is attack rate? What percentage of cases are mild or asymptomatic?
+## What is attack rate? What percentage of cases are asymptomatic?
 
 It's hard to say what number of exposed people go on to actually develop the disease. Because of the way different countries are testing, we aren't necessarily able to say what number of truly exposed people have developed disease.
 
@@ -70,28 +70,32 @@ According to the WHO & WHO Director General Dr. Tedros, very few confirmed cases
 
 However, this seems to conflict with this not-peer-reviewed preprint looking at [the Princess Diamond data](https://www.medrxiv.org/content/10.1101/2020.02.20.20025866v2), which implied an 18% asymptomatic rate.
 
+Note that the [Report of the WHO-China Joint Mission on Coronavirus Disease 2019](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) points out that many of the patients who were asymptomatic on the date of identification/report went on to develop disease.
+
 There are very many biologically plausible explanations for this discrepancy, and **we will know more about asymptomatics and the attack rate as time goes on**.
 
-## How bad is it?
+## What percentage are mild?  What does "mild" mean?
 
-**80% of cases are considered mild**. **20% have severe disease**, which means they were put on respiratory support machines & experienced pretty scary complications. [WHO Sitrep](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2)
+**80% of cases are considered mild** (which includes asymptomatic cases) according to the [WHO Situation report](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2), but the [WHO mission report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) says that 80% are "mild to moderate". 
 
-However, it's not super clear to me what "mild cases" means. There was something in the WHO mission report that "mild" meant you didn't have to be intubated but might still be hospitalized. We will find out more from South Korea and Seattle. 
+However, it's not super clear to me what "mild cases" means. The [WHO mission report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) includes pneumonia cases where the patient was hospitalized but who did not need to be intubated in "mild to moderate", which most people would not think of as "mild to moderate".  We will find out more from South Korea and Seattle. 
 
-But, it does seem that when people are sick, they seem to be sick for a long period of time (>20 days). This has worrying implications for the US hospital system. 
+## How bad is it if you have a worse than "mild to moderate" case?
+
+**20% have severe disease**, which means they were put on respiratory support machines & experienced pretty scary complications. [WHO Situation report](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2)
+
+When people are sick, they seem to be sick for a long period of time (>20 days). This has worrying implications for the US hospital system. 
+
 
 ## Who's going to get it? Who's gonna die?
 
 As time goes on, we'll learn more about the virus and its patterns as we just deal with it. South Korea, China, and Singapore are offering pretty good information.
 
-In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out, we don't really know if younger patients are truly unaffected, or if their symptoms were just mild enough. Testing data out of South Korea should firm up some of this knowledge soon.
+Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf) : In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out,
 
-Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality. In the < 40 category, the mortality rate was 0.2%. 
-
-Because of these mortality rates, in order to protect the most vulnerable, we should all try to not spread the disease, even if it doesn't affect us badly. 
+Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
 
 ## Can asymptomatic people transmit the disease?
-
 To the best of our knowledge, the answer is yes, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
 
 Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She *was* symptomatic, with a light fever.
