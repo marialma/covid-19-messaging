@@ -38,6 +38,10 @@ SARS-CoV-2 causes COVID-19, the same way that the influenza virus causes the flu
 
 Before it was formally named, people were generally using the terms novel coronavirus, nCoV, and "Wuhan pneumonia" to refer to the disease/ virus.
 
+## Where did this come from? 
+
+We believe this virus crossed over from bats to humans at some point in early November 2019. This type of species-jumping is called a 'spillover event', and happens, honestly, with some degree of regularity. Spillover events have a probability of happening every time humans come into contact with wild animals, and bats can get around a lot.
+
 ## I heard the R0 was really high!
 
 Eeeugh. This is tough.
@@ -51,16 +55,15 @@ Mathematically, R0 is a function of an infected person's infectious contact rate
 
 ## What are the symptoms?
 
-Symptoms have generally been described as nonspecific, involving fever, cough, and shortness of breath ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)).  The real distinguisher from your garden-variety cold or flu is the shortness of breath.  If you feel like you are having trouble breathing (other than just because your nose is blocked up or because you ran up six flights of stairs), that's worth paying attention to.
+Symptoms have generally been described as nonspecific, involving fever, cough, and shortness of breath ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)).  The real distinguisher from your garden-variety cold or flu is the shortness of breath.  If you feel like you are having trouble breathing (other than just because your nose is blocked up or because you ran up six flights of stairs), that's worth paying attention to. 
+
+However, other [symptoms have also been recorded](https://www.nejm.org/doi/10.1056/NEJMoa2002032), including fatigue and body pains. 
 
 ## What is the incubation period?
 
 The incubation period is a bit tough to pin down exactly, but [appears to be, on average, about **5.1** days](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported), with 97.5% of patients developing symptoms by 11.5 days. This study was done with secondhand data, but the results are consistent with other studies. As we see more cases in the US, unfortunately, we will be able to confirm this number.
 
 In general, people have been using 14 days/ 2 weeks as the benchmark.
-
-## How long does it survive on surfaces?
-Results from a preprint on medrxiv were leaked earlier. This space will be updated when that preprint goes live. But generally, it doesn't seem to be hugely different from what you'd expect from a coronavirus.  Depending on the type of material and conditions, it can remain infectious for anything from 2 hours to up to 9 days.
 
 ## What is attack rate? What percentage of cases are asymptomatic?
 
@@ -80,11 +83,14 @@ There are very many biologically plausible explanations for this discrepancy, an
 
 However, it's not super clear to me what "mild cases" means. The [WHO mission report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) includes pneumonia cases where the patient was hospitalized but who did not need to be intubated in "mild to moderate", which most people would not think of as "mild to moderate".  We will find out more from South Korea and Seattle. 
 
+So, when people say "it's just a mild disease for most people", keep in mind that "mild" could still mean "spent days in the hospital". 
+
+
 ## How bad is it if you have a worse than "mild to moderate" case?
 
 **20% have severe disease**, which means they were put on respiratory support machines & experienced pretty scary complications. [WHO Situation report](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2)
 
-When people are sick, they seem to be sick for a long period of time (>20 days). This has worrying implications for the US hospital system. 
+When people are sick, they seem to be sick for a long period of time (>20 days). This has worrying implications for the US hospital system, which is not terribly well equipped to handle the sudden need to take care of a lot of patients at once.
 
 
 ## Who's going to get it? Who's gonna die?
@@ -93,7 +99,20 @@ As time goes on, we'll learn more about the virus and its patterns as we just de
 
 Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf) : In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out,
 
-Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
+Per the [same report](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
+
+## Can you get it more than once?
+
+There have been some reports that say that you can get infected twice. However, even if this were truly the case for this patient, this would be exceedingly rare, and much more likely the result of false negatives.
+
+## How long does it survive on surfaces?
+[This preprint from Doremalen et al](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1) contains the best
+However, we know that temperature and humidity both have significant effects on a virus' ability to persist in the environment. Under the specific conditions used in the paper (65% relative humidity, ~70F/22C), a piece of plastic or stainless steel that was contaminated might still have viable virus up to 2-3 days later. On other surfaces: copper had viable virus up to 4 hours later, and cardboard had virus up to 24 hours later. This tells us that transmission through touching objects is definitely possible. It's important to note though that these numbers are only valid for the lab condition, under specific humidity/ temperature. Viral viability changes as a function of heat and temperature, too. 
+
+But, the only way this virus gets into your lungs from that surface is if you bring it there! The best way to manage this is to treat surfaces as if they might be contaminated. If you touch a table at a cafe, don't touch your face right after. Don't lick your finger after touching a doorknob. Definitely don't lick the doorknob itself. 
+
+Caveat: This sounds like it's really easy to not do. After all, who would lick a dirty hand? But, it really is a pretty difficult thing to not do through an entire day. Every time you take your glasses off, scratch an itch, rub your nose... if your hands are contaminated, then you just put yourself at risk of infecting yourself. Washing your hands often will reduce this chance. 
+
 
 ## Can asymptomatic people transmit the disease?
 To the best of our knowledge, the answer is yes, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
@@ -104,16 +123,25 @@ However, there was at least one case in China of [an asymptomatic patient transm
 
 Basically, getting on public transit with an asymptomatically infected patient most probably isn't going to give you the disease unless you make out with them or lick their face or something. 
 
+
+## How do you get it? How easily transmissible is it? 
+So far, we believe that it is very probably droplet transmission. This is partly because so far, most of the evidence does not point to airborne transmission being common (one kind of shaky study was published and almost immediately retracted by the authors). Also, our  understanding of general respiratory diseases right now is that, people don't usually generate those types of aerosols easily.
+
+However, aerosols with infectious particles can be generated through medical procedures such as airway suctions and intubations. This is why N95 masks (designed to protect against aerosols) are especially important for medical professionals, but maybe a little overkill for most people. [The preprint discussed earlier from Doremalen et al](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1) does talk about aerosols persisting in the air, but the main context is for healthcare workers to know to protect themselves. 
+
+A bit of a roundabout here: the reason why we generally say that asymptomatics don't transmit disease is because even if you are producing virus in your throat, if that virus doesn't infect other people, it still wasn't transmitted. Coughing and sneezing is a symptom that really helps disperse the virus farther. Think about a spray bottle. If the nozzle is jammed and the liquid just dribbles out, you get a much smaller surface area than if you were able to really disperse a fine mist. So, this is also why covering your mouth when you cough is important. But, it's also possible to transmit the disease by talking, as you know if you've encountered any especially... spitty. 
+
+We don't know much yet about how long the virus can stay airborne for, and how infectious it is while airborne. Droplets are usually heavier and fall to the ground quickly, and have a shorter range that they can travel (because they're heavier). If you want to be extra paranoid, keeping a distance of like 3-6 feet between you and the person you're with is a generally safe rule. 
+
+Emphasizing again, if you touch a surface that has the virus on it, and then touch your face, you might have just just given yourself the virus. **Wash your hands!!**
+
 ## Can recovered people transmit the disease?
-
-We know that people can test positive for some time after they've fully recovered. However, we don't actually know if this means that they are infectious. Because the current test is a PCR test, it only tells us if that person has virus fragments in them. We don't know if those virus fragments can infect anyone else or not.
-
-## Can you get it more than once?
-
-There have been some reports that say that you can get infected twice. However, even if this were truly the case for this patient, this would be exceedingly rare, and much more likely the result of false negatives.
+We know that people can test positive for some time after they've fully recovered. However, we don't actually know if this means that they are infectious. Because the current test is a PCR test, it only tells us if that person has virus fragments in them. We don't know if those virus fragments can infect anyone else or not. 
 
 ## What is going on with testing?
-Currently, due to a series of bungled missteps from the federal government, the US has not actually tested very many people. This involved the CDC inexplicably trying to develop its own test (which did not work), which meant that useful test kits were not given to health departments for a while.
+Currently, due to a series of bungled missteps from the federal government, the US has not actually tested very many people. This involved the CDC inexplicably trying to develop its own test (which did not work), which meant that useful test kits were not given to health departments for a while. 
+
+Additioanlly, the lack of CDC guidance on when was appropriate for the test to be used (leaving it kind of up to local decisionmaking) has caused a lot of confusion and made it very hard to actually obtain a test.
 
 ##  What's with the US' case counts? We don't have that many!
 The thing about diagnosing diseases is that you're going to have to first go look for them. If you don't look for them, you'll never find them. We know there's community transmission going on; we just don't know how much. 
@@ -142,7 +170,7 @@ Basically, don't hold your breath.
 # SF Specific
 
 ## What's happening in San Francisco?
-San Francisco declared a state of emergency. This sounds scary, but is mostly a way to access resources that they need to fight the outbreak.
+San Francisco declared a state of emergency. This sounds scary, but is mostly a way to access resources that they need to fight the outbreak. Gatherings of more than 250 people have also been banned. 
 
 ## How many beds do hospitals in San Francisco have?
 The City of San Francisco has three hospitals, with 1,400 beds between them. I do not know how many isolation rooms there are. 
@@ -165,7 +193,7 @@ As of: 2020-03-09:
 Probably, if you can. Try to reduce the burden on those who can't. 
 
 ## Should I travel?
-Wouldn't exactly recommend it, especially if you have older family that you're in contact with a lot. But, if you insist on it, absolutely do not go while sick and promptly quarantine yourself if you develop symptoms. 
+Wouldn't exactly recommend it, especially if you have older family that you're in contact with a lot. But, if you really insist on it, absolutely do not go while sick and promptly quarantine yourself if you develop symptoms. 
 
 Also recognize, depending on where you're going, a ton of shit's probably closed anyway, and there is a non-zero chance of getting officially quarantined on your way back. Do you really want to go?
 
@@ -184,7 +212,7 @@ Generally speaking, make sure you've got at least 2 weeks of food. You should ha
 ## Exercise ...? 
 One of the other guides going around tells you to do aerobic exercise to "strengthen your lungs". I deeply resent this wording - your lungs aren't like a muscle. You can improve your lung capacity, but you can't just 'strengthen your lungs'  
 
-BUT exercise can help strengthen your immune system. So does eating healthy foods, *especially* getting enough sleep, not drinking excessively, and not stressing out. [Hahhvahd](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
+BUT exercise can help your immune system (less strengthening it and more just not weakening it). So does eating healthy foods, *especially* getting enough sleep, not drinking excessively, and not stressing out. [Hahhvahd](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 
 So, really, one of the best things you can do for yourself is to just go to bed and not try to obsessively follow the latest scraps of news. 
 
