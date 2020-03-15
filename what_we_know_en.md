@@ -174,6 +174,20 @@ San Francisco declared a state of emergency. This sounds scary, but is mostly a 
 ## How many beds do hospitals in San Francisco have?
 The City of San Francisco has three hospitals, with 1,400 beds between them. I do not know how many isolation rooms there are. 
 
+## What do I do if I think I might be infected? 
+Try to not panic! **Don't** just go to your doctor's office or the emergency room unless you are like, imminently about to die. Call your doctor or your [local health department](https://www.cdph.ca.gov/Programs/CCLHO/CDPH%20Document%20Library/LHD_CD_Contact_Info_ADA.pdf) *first* and let them know what's going on, so that they can direct you properly, or prepare for your visit. Some doctors' offices have been adopting telemedicine visits as well, and Kaiser has a mobile swabbing unit for high risk patients. Because of this, and to reduce risk to other patients, you should call and see what they're doing first.
+
+**Calling your doctor** is probably the best, but here are some local numbers for health departments:
+* **Alameda County Communicable Disease Unit**: (510) 267-3250
+* **City of Berkeley**: (510) 981-5300  (Yes, this is somehow separate from Alameda County)
+* **San Francisco Disease Prevention and Control**: (415) 554-2500
+* **San Mateo County Communicable Disease Control**: (650) 573-2346
+* **Santa Clara County**: (408) 885-4214
+* **Contra Costa County Communicable Disease**: (925) 313-6740
+
+I'm afraid this is all we can do right now. I'm sorry. Hang in there. We got this. 
+
+
 ## How many cases have been in the Bay Area? 
 
 As of: 2020-03-09: 
@@ -214,6 +228,13 @@ One of the other guides going around tells you to do aerobic exercise to "streng
 BUT exercise can help your immune system (less strengthening it and more just not weakening it). So does eating healthy foods, *especially* getting enough sleep, not drinking excessively, and not stressing out. [Hahhvahd](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 
 So, really, one of the best things you can do for yourself is to just go to bed and not try to obsessively follow the latest scraps of news. 
+
+## But what can I do to help??
+* Convince your friends and family to practice social distancing. Try not to scare them too much (sometimes people react the opposite of what you want if you do that), but do emphasize that this is just all of us doing our part to stop this disease that can kill people. It can only happen if we all work together, so please pitch in!
+* Reach out to your friends and do things together online so you can help them not get cabin fever and go outside! Maybe now is a good time to watch a movie together over video chat
+
+Unrelated to coronavirus, but I think a whole lot of you probably suddenly are working from home. A reminder: get up and walk around every now and then. Don't put yourself at risk for blood clots in your legs that can lead to life threatening pulmonary embolism. Just walk around a little bit.
+
 
 # Other resources (SF -centric)
 
