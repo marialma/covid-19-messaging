@@ -1,6 +1,8 @@
 Hi. I'm Maria Ma. I have an MPH in Infectious Diseases from UC Berkeley. My undergrad degree is in Microbiology, and I spent several years working as a biotech professional before transitioning to public health. I tell you my qualifications to let you decide whether or not you can trust the information I sifted through.
 
 Some key points I want to emphasize:
+* **Please, stay home for now. For the next two weeks if you can.** [Here's a good explainer for why!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4)
+
 * **We are still learning about this.** It's a brand new virus. We're learning about this faster than we ever have before. Truly bold new technologies are being applied by the scientists trying to figure this stuff out. You might feel like we don't have enough information, but actually having this much information at this stage of an outbreak of a new virus is completely unprecedented. 
 * **It's going to take some time.** Vaccine development will take a while. Finding and testing cases will take a while. Recovery even takes a while. 
 * **Responders are human too.** They will get tired. Try not to harass them too much or spread too many wild theories that make their job harder. 
@@ -168,6 +170,8 @@ Basically, don't hold your breath.
 Flattening the curve has been going around social media a bit. Basically, since this is poised to overwhelm a lot of our hospital resources, and we don't have a vaccine at all, we want to slow down the spread of the disease as much as possible. Social distancing is when you stay home and avoid others even when you're healthy, so you reduce the spread of the disease. 
 
 Also, [check out this explainer, which illustrates it way better than I can.](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) 
+
+[Here is another post that is a great read on this subject!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4)
 
 
 # SF Specific
