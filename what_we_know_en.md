@@ -1,7 +1,6 @@
 Hi. I'm Maria Ma. I have an MPH in Infectious Diseases from UC Berkeley. My undergrad degree is in Microbiology, and I spent several years working as a biotech professional before transitioning to public health. I tell you my qualifications to let you decide whether or not you can trust the information I sifted through.
 
-Some key takeaways:
-*  Using even the most generous estimates of asymptomatic individuals, most infected people have symptoms. If you're not surrounded by people coughing, **you're probably not surrounded by people with the virus.**
+Some key points I want to emphasize:
 * **We are still learning about this.** It's a brand new virus. We're learning about this faster than we ever have before. Truly bold new technologies are being applied by the scientists trying to figure this stuff out. You might feel like we don't have enough information, but actually having this much information at this stage of an outbreak of a new virus is completely unprecedented. 
 * **It's going to take some time.** Vaccine development will take a while. Finding and testing cases will take a while. Recovery even takes a while. 
 * **Responders are human too.** They will get tired. Try not to harass them too much or spread too many wild theories that make their job harder. 
@@ -90,7 +89,7 @@ So, when people say "it's just a mild disease for most people", keep in mind tha
 
 **20% have severe disease**, which means they were put on respiratory support machines & experienced pretty scary complications. [WHO Situation report](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2)
 
-When people are sick, they seem to be sick for a long period of time (>20 days). This has worrying implications for the US hospital system, which is not terribly well equipped to handle the sudden need to take care of a lot of patients at once.
+When people are sick, they seem to be sick for a long period of time (>20 days). This has **worrying** implications for the US hospital system, which is not terribly well equipped to handle the sudden need to take care of a lot of patients at once.
 
 
 ## Who's going to get it? Who's gonna die?
@@ -103,7 +102,7 @@ Per the [same report](http://www.ourphn.org.au/wp-content/uploads/20200225-Artic
 
 ## Can you get it more than once?
 
-There have been some reports that say that you can get infected twice. However, even if this were truly the case for this patient, this would be exceedingly rare, and much more likely the result of false negatives.
+There have been some reports that say that you can get infected twice. However, even if this were truly the case for this patient, this appears that it would be a rare event.
 
 ## How long does it survive on surfaces?
 [This preprint from Doremalen et al](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1) contains the best we know so far.  However, we know that temperature and humidity both have significant effects on a virus' ability to persist in the environment. Under the specific conditions used in the paper (65% relative humidity, ~70F/22C), a piece of plastic or stainless steel that was contaminated might still have viable virus up to 2-3 days later. On other surfaces: copper had viable virus up to 4 hours later, and cardboard had virus up to 24 hours later. This tells us that transmission through touching objects is definitely possible. It's important to note though that these numbers are only valid for the lab condition, under specific humidity/ temperature. Viral viability changes as a function of heat and temperature, too. 
@@ -165,6 +164,11 @@ So, given clinical trials, you might be able to get the vaccine earlier, but the
 
 Basically, don't hold your breath. 
 
+## What's social distancing? What's flattening the curve?
+Flattening the curve has been going around social media a bit. Basically, since this is poised to overwhelm a lot of our hospital resources, and we don't have a vaccine at all, we want to slow down the spread of the disease as much as possible. Social distancing is when you stay home and avoid others even when you're healthy, so you reduce the spread of the disease. 
+
+Also, [check out this explainer, which illustrates it way better than I can.](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) 
+
 
 # SF Specific
 
@@ -203,10 +207,13 @@ As of: 2020-03-09:
 *I want to note here that this is how I have been answering the questions that people have asked me specifically. You should pay attention to what your local health department says. Check their website!*
 
 ## Should I work from home?
-Probably, if you can. Try to reduce the burden on those who can't. 
+Yes, if you can. Try to reduce the burden on those who can't. 
+
+## Should I try to stay at home as much as possible?
+Please do! Try to reduce your social contact as much as you can right now. Don't forget to use the internet and phone calls to stay in touch with your friends and family!
 
 ## Should I travel?
-Wouldn't exactly recommend it, especially if you have older family that you're in contact with a lot. But, if you really insist on it, absolutely do not go while sick and promptly quarantine yourself if you develop symptoms. 
+Would really, really, really not recommend it, especially if you have older family that you're in contact with a lot. But, if you really insist on it because no one can stop you, absolutely do not go while sick and immediately quarantine yourself if you develop symptoms. 
 
 Also recognize, depending on where you're going, a ton of shit's probably closed anyway, and there is a non-zero chance of getting officially quarantined on your way back. Do you really want to go?
 
