@@ -133,7 +133,7 @@ A bit of a roundabout here: the reason why we generally say that asymptomatics d
 
 We don't know much yet about how long the virus can stay airborne for, and how infectious it is while airborne. Droplets are usually heavier and fall to the ground quickly, and have a shorter range that they can travel (because they're heavier). If you want to be extra paranoid, keeping a distance of like 3-6 feet between you and the person you're with is a generally safe rule. 
 
-Emphasizing again, if you touch a surface that has the virus on it, and then touch your face, you might have just just given yourself the virus. **Wash your hands!! Don't touch your face!!** 
+Emphasizing again, if you touch a surface that has the virus on it, and then touch your face, you might have just given yourself the virus. **Wash your hands!! Don't touch your face!!** 
 
 ## Can recovered people transmit the disease?
 We know that people can test positive for some time after they've fully recovered. However, we don't actually know if this means that they are infectious. Because the current test is a PCR test, it only tells us if that person has virus fragments in them. We don't know if those virus fragments can infect anyone else or not. 
@@ -141,7 +141,7 @@ We know that people can test positive for some time after they've fully recovere
 ## What is going on with testing?
 Currently, due to a series of bungled missteps from the federal government, the US has not actually tested very many people. This involved the CDC inexplicably trying to develop its own test (which did not work), which meant that useful test kits were not given to health departments for a while. 
 
-Additioanlly, the lack of CDC guidance on when was appropriate for the test to be used (leaving it kind of up to local decisionmaking) has caused a lot of confusion and made it very hard to actually obtain a test.
+Additionally, the lack of CDC guidance on when was appropriate for the test to be used (leaving it kind of up to local decisionmaking) has caused a lot of confusion and made it very hard to actually obtain a test.
 
 ##  What's with the US' case counts? We don't have that many!
 The thing about diagnosing diseases is that you're going to have to first go look for them. If you don't look for them, you'll never find them. We know there's community transmission going on; we just don't know how much. 
