@@ -1,8 +1,8 @@
 Hi. I'm Maria Ma. I have an MPH in Infectious Diseases from UC Berkeley. My undergrad degree is in Microbiology, and I spent several years working as a biotech professional before transitioning to public health. I tell you my qualifications to let you decide whether or not you can trust the information I sifted through.
 
 Some key points I want to emphasize:
-* **Please, stay home for now. For the next two weeks if you can.** [Here's a good explainer for why!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4)
-
+* **Please, stay home for now. For the next two weeks if you can.** [Here's a good explainer for why!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4) 
+* **Wash your hands!!!!!!!** Also, moisturize them!
 * **We are still learning about this.** It's a brand new virus. We're learning about this faster than we ever have before. Truly bold new technologies are being applied by the scientists trying to figure this stuff out. You might feel like we don't have enough information, but actually having this much information at this stage of an outbreak of a new virus is completely unprecedented. 
 * **It's going to take some time.** Vaccine development will take a while. Finding and testing cases will take a while. Recovery even takes a while. 
 * **Responders are human too.** They will get tired. Try not to harass them too much or spread too many wild theories that make their job harder. 
@@ -98,7 +98,7 @@ When people are sick, they seem to be sick for a long period of time (>20 days).
 
 As time goes on, we'll learn more about the virus and its patterns as we just deal with it. South Korea, China, and Singapore are offering pretty good information.
 
-Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf) : In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out,
+Per the [report from China CDC](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf) : In China, 86.6% of diagnosed patients were between the ages of 30-79. About 70% of the patients were between the ages of 40-79. Curiously, young children appear to be almost unaffected, though they can still get the disease and potentially transmit it. However, because of how China was doing the diagnosing at the time this report came out, we don't really know if younger patients are truly unaffected, or if their symptoms were just mild enough. Testing data from other countries should firm up some of this knowledge.
 
 Per the [same report](http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf), the highest mortality rate is in the >80 crowd, with almost 15% mortality.
 
@@ -109,19 +109,19 @@ There have been some reports that say that you can get infected twice. However, 
 ## How long does it survive on surfaces?
 [This preprint from Doremalen et al](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1) contains the best we know so far.  However, we know that temperature and humidity both have significant effects on a virus' ability to persist in the environment. Under the specific conditions used in the paper (65% relative humidity, ~70F/22C), a piece of plastic or stainless steel that was contaminated might still have viable virus up to 2-3 days later. On other surfaces: copper had viable virus up to 4 hours later, and cardboard had virus up to 24 hours later. This tells us that transmission through touching objects is definitely possible. It's important to note though that these numbers are only valid for the lab condition, under specific humidity/ temperature. Viral viability changes as a function of heat and temperature, too. 
 
-But, the only way this virus gets into your lungs from that surface is if you bring it there! The best way to manage this is to treat surfaces as if they might be contaminated. If you touch a table at a cafe, don't touch your face right after. Don't lick your finger after touching a doorknob. Definitely don't lick the doorknob itself. 
+But, the only way this virus gets into your lungs from that surface is if you bring it there! The best way to manage this is to treat all surfaces as if they might be contaminated. If you touch a table at a cafe, don't touch your face right after. Don't lick your finger after touching a doorknob. Definitely don't lick the doorknob itself. But also, don't rub your nose after opening the door. Don't try to chew off a hangnail before washing your hands. Don't bite your nails.  
 
 Caveat: This sounds like it's really easy to not do. After all, who would lick a dirty hand? But, it really is a pretty difficult thing to not do through an entire day. Every time you take your glasses off, scratch an itch, rub your nose... if your hands are contaminated, then you just put yourself at risk of infecting yourself. Washing your hands often will reduce this chance. 
 
 
 ## Can asymptomatic people transmit the disease?
-To the best of our knowledge, the answer is yes, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
+To the best of our knowledge, the answer is yes, asymptomatic people can transmit it, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
 
 Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She *was* symptomatic, with a light fever.
 
-However, there was at least one case in China of [an asymptomatic patient transmitting disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930154-9/fulltext) to their family. The asymptomatic patient later went on develop the disease as well. 
+However, there was at least one case in China of [an a/presymptomatic patient transmitting disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930154-9/fulltext) to their family. The a/presymptomatic patient later went on develop the disease as well. 
 
-Basically, getting on public transit with an asymptomatically infected patient most probably isn't going to give you the disease unless you make out with them or lick their face or something. 
+Basically, getting on public transit with an asymptomatically/presymptomatically infected patient most probably isn't going to give you the disease unless you make out with them or lick their face or something 
 
 
 ## How do you get it? How easily transmissible is it? 
@@ -133,7 +133,7 @@ A bit of a roundabout here: the reason why we generally say that asymptomatics d
 
 We don't know much yet about how long the virus can stay airborne for, and how infectious it is while airborne. Droplets are usually heavier and fall to the ground quickly, and have a shorter range that they can travel (because they're heavier). If you want to be extra paranoid, keeping a distance of like 3-6 feet between you and the person you're with is a generally safe rule. 
 
-Emphasizing again, if you touch a surface that has the virus on it, and then touch your face, you might have just just given yourself the virus. **Wash your hands!!**
+Emphasizing again, if you touch a surface that has the virus on it, and then touch your face, you might have just just given yourself the virus. **Wash your hands!! Don't touch your face!!** 
 
 ## Can recovered people transmit the disease?
 We know that people can test positive for some time after they've fully recovered. However, we don't actually know if this means that they are infectious. Because the current test is a PCR test, it only tells us if that person has virus fragments in them. We don't know if those virus fragments can infect anyone else or not. 
