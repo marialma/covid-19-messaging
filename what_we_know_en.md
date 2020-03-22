@@ -173,6 +173,15 @@ Also, [check out this explainer, which illustrates it way better than I can.](ht
 
 [Here is another post that is a great read on this subject!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4)
 
+## I heard that hydroxychloroquinine is the cure! 
+Despite what certain political leaders and certain electric car makers say, we do not know if hydroxychloroquinine (HCQ) is a 'cure'. The paper for the clinical trial is shoddy at best and has a number of unanswered questions. Several [Twitter](https://twitter.com/jpogue1/status/1241138975802359813) [threads](https://twitter.com/GaetanBurgio/status/1241213107097100288) detail many of them, but the biggest problems are these: 
+  * The outcome looked at was viral load, not clinical outcomes. 
+  * Several patients who received HCQ were deemed ineligible for analysis because they weren't able to give a sample at the end timepoint, but probably would have been considered failures (as in, 3 got worse and had to go to the ICU (and so they couldn't give samples), 1 died, 1 couldn't take the side effects)
+  * Viral load was not properly measured in most samples. 
+Basically, this study really doesn't provide any convincing evidence that HCQ or HCQ+ azithromycin really is a 'cure'. To be clear, what I mean is this: we do not know if HCQ is a treatment or not. There are many other studies looking at HCQ now. But this study does not provide any evidence for that at all. 
+
+I have heard anecdotal stories of people getting sham prescriptions for HCQ and self medicating. Do not self medicate on this stuff. The side effects are very much not trivial, and it's not clear at all that it can be used proactively. HCQ can also cause heart problems, and if you have certain underlying conditions, it can kill you. Please, only take this with a doctor's guidance! Other common side effects include nausea, headache, loss of appetite, rash, and nightmares + hallucinations. This last point I kind of want to emphasize: think about how bad the nightmares have to be that they end up as side effect on here. Also, please don't hoard it; it's a drug that some people legitimately need to take and we should not cause shortages for them!
+
 
 # SF Specific
 
