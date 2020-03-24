@@ -256,6 +256,12 @@ So, really, one of the best things you can do for yourself is to just go to bed 
 Unrelated to coronavirus, but I think a whole lot of you probably suddenly are working from home. A reminder: get up and walk around every now and then. Don't put yourself at risk for blood clots in your legs that can lead to life threatening pulmonary embolism. Just walk around a little bit.
 
 
+## I have skills, how can I help?
+There's lots of groups that have set up ad hoc coronavirus response stuff. They are all over the place, but I haven't had time to vet them all. You can find them fairly easily online! 
+
+Though, I wanted to give a particular shout out to this group I trust because of the backgrounds of the people running the show - namely that most of them understand what it takes to integrate into existing government systems : [US Digital Response](https://www.usdigitalresponse.org) 
+
+
 # Other resources (SF -centric)
 
 **PLEASE PLEASE PLEASE** check your local ordinances for recommendations. 
