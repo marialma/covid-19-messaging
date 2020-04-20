@@ -1,7 +1,7 @@
 Hi. I'm Maria Ma. I have an MPH in Infectious Diseases from UC Berkeley. My undergrad degree is in Microbiology, and I spent several years working as a biotech professional before transitioning to public health. I tell you my qualifications to let you decide whether or not you can trust the information I sifted through.
 
 Some key points I want to emphasize:
-* **Please, stay home for now. For the next two weeks if you can.** [Here's a good explainer for why!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4) 
+* **Please, stay home for now.** [Here's a good explainer for why!](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4) 
 * **Wash your hands!!!!!!!** Also, moisturize them!
 * **We are still learning about this.** It's a brand new virus. We're learning about this faster than we ever have before. Truly bold new technologies are being applied by the scientists trying to figure this stuff out. You might feel like we don't have enough information, but actually having this much information at this stage of an outbreak of a new virus is completely unprecedented. 
 * **It's going to take some time.** Vaccine development will take a while. Finding and testing cases will take a while. Recovery even takes a while. 
@@ -115,13 +115,13 @@ Caveat: This sounds like it's really easy to not do. After all, who would lick a
 
 
 ## Can asymptomatic people transmit the disease?
-To the best of our knowledge, the answer is yes, asymptomatic people can transmit it, **however**, it requires close contact. By close contact, I mean sharing-utensils-and-cups, spending lots of time together kind of close contact.
+To the best of our knowledge, the answer is yes, asymptomatic people can transmit it. In general, this requires close contact. 
 
 Early on in the epidemic, there appeared to be [a case where one person had asymptomatically transmitted the disease](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) to coworkers abroad. However, it turns out that [the original authors of the paper had not interviewed the first case](https://www.jwatch.org/na50871/2020/02/07/clarification-asymptomatic-2019-ncov-transmission-germany) about what symptoms she had. She *was* symptomatic, with a light fever.
 
 However, there was at least one case in China of [an a/presymptomatic patient transmitting disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930154-9/fulltext) to their family. The a/presymptomatic patient later went on develop the disease as well. 
 
-Basically, getting on public transit with an asymptomatically/presymptomatically infected patient most probably isn't going to give you the disease unless you make out with them or lick their face or something 
+This ties a little bit into the next point: Recently, a case study was published in which [an asymptomatic patient infected 10 others in a restaurant](https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article) - however, the only people they had infected were in the direct line of the restaurant's wall AC unit. This strongly suggests droplet based transmission, as the AC blew infectious droplets to other people. Had it been airborne, we would have expected many others in the restaurant to have gotten sick. 
 
 
 ## How do you get it? How easily transmissible is it? 
@@ -182,6 +182,14 @@ Basically, this study really doesn't provide any convincing evidence that HCQ or
 
 I have heard anecdotal stories of people getting sham prescriptions for HCQ and self medicating. Do not self medicate on this stuff. The side effects are very much not trivial, and it's not clear at all that it can be used proactively. HCQ can also cause heart problems, and if you have certain underlying conditions, it can kill you. Please, only take this with a doctor's guidance! Other common side effects include nausea, headache, loss of appetite, rash, and nightmares + hallucinations. This last point I kind of want to emphasize: think about how bad the nightmares have to be that they end up as side effect on here. Also, please don't hoard it; it's a drug that some people legitimately need to take and we should not cause shortages for them!
 
+## What about Remdesivir? 
+
+Looks kind of promising, but all published studies as of 2020/04/19 are kind of shaky - lack of useful control means there's not that much we can extrapolate! The 'sneak peeks' at data are also kind of problematic. We have no choice but to wait. 
+
+## Is Ibuprofen safe?
+
+Early on in the outbreak, there was a suggestion from several French doctors that patients who were taking ibuprofen for their symptoms went on to develop more severe disease. However, this association doesn't appear to have held up now that there are, unfortunately, many more patients. Still, if you're worried, it wouldn't be the worst idea to opt for acetaminophen over ibuprofen (unless you have other conditions that mean you can't take acetaminophen, of course). 
+
 
 # SF Specific
 
@@ -207,13 +215,7 @@ I'm afraid this is all we can do right now. I'm sorry. Hang in there. We got thi
 
 ## How many cases have been in the Bay Area? 
 
-As of: 2020-03-09: 
-- 13 in San Francisco
-- 43 in Santa Clara County
-- 9 in San Mateo County
-- 3 in Alameda County
-- 12 in Contra Costa County
-- 2 in Marin County
+Oh boy, it's a lot. Sorry :( 
 
 
 # Frequently asked questions
@@ -232,11 +234,15 @@ Also recognize, depending on where you're going, a ton of shit's probably closed
 
 ## Should I stock up on masks? What measures can I take?
 
-The typical refrain: wash your hands, don't touch your face, avoid large crowds, make sure you have your emergency kit. Wear a mask only if you're sick
+As of 2020/04/19, the Bay Area has a mandatory mask order. Remember to properly don and doff your masks: [Youtube link here](https://www.youtube.com/watch?v=z-5RYKLYvaw). If you have a cloth mask, throw that thing into the laundry immediately when you get home. Remember to only wear clean masks! You wear a mask to protect others, and others wear masks to protect you. Remain physically distanced; masks are not a substitute for reducing contact! 
 
-Masks will provide some marginal level of protection, but most people also use masks incorrectly which might lead to them actually putting themselves at greater risk. The value a mask provides is kind of dependent on how many sick people are actually around you. 
+A fabric mask isn't perfect but it'll help. It's also sort of a signifier that you are willing to do your part to protect your community. If you are starting to feel a little bit hopeless, I think it's nice to look at everyone wearing masks and know that they're all pitching in and doing their part to protect you, and you're doing your part to protect them :)
+ 
+~~The typical refrain: wash your hands, don't touch your face, avoid large crowds, make sure you have your emergency kit. Wear a mask only if you're sick~~
 
-Additionally, there will definitely be a mask shortage for our healthcare workers, who are in constant contact with infectious particles. You should not hoard masks when health workers need them the most. It is in your best, selfish interest for those people to not get sick. If too many health workers get sick, it'll cripple a hospital, resulting in worse outcomes for sick people, and even less ability to control the outbreak. But, you should still wear a mask if you're sick, to prevent infecting anyone else. 
+~~Masks will provide some marginal level of protection, but most people also use masks incorrectly which might lead to them actually putting themselves at greater risk. The value a mask provides is kind of dependent on how many sick people are actually around you. ~~
+
+~~Additionally, there will definitely be a mask shortage for our healthcare workers, who are in constant contact with infectious particles. You should not hoard masks when health workers need them the most. It is in your best, selfish interest for those people to not get sick. If too many health workers get sick, it'll cripple a hospital, resulting in worse outcomes for sick people, and even less ability to control the outbreak. But, you should still wear a mask if you're sick, to prevent infecting anyone else.~~
 
 Many respiratory infections are actually from people with dirty hands touching their faces and inoculating themselves with pathogen. So, wash your hands and don't touch your face.
 
