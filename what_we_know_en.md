@@ -190,6 +190,7 @@ Looks kind of promising, but all published studies as of 2020/04/19 are kind of 
 
 Early on in the outbreak, there was a suggestion from several French doctors that patients who were taking ibuprofen for their symptoms went on to develop more severe disease. However, this association doesn't appear to have held up now that there are, unfortunately, many more patients. Still, if you're worried, it wouldn't be the worst idea to opt for acetaminophen over ibuprofen (unless you have other conditions that mean you can't take acetaminophen, of course). 
 
+## I can't believe I'm saying this, but, please, PLEASE do not inject bleach into your veins to fight the virus. You have a severe chance of killing or horribly maiming yourself. 
 
 # SF Specific
 
